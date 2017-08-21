@@ -1,0 +1,85 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "yqF125xVSkmfLpIVGrLlfE05IUk=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "ab9f9a6dab164b7d1246e0e688b0ab7b94d8553e",
+			"revisionTime": "2017-08-16T00:15:14Z"
+		},
+		{
+			"checksumSHA1": "dr5+PfIRzXeN+l1VG+s0lea9qz8=",
+			"path": "golang.org/x/net/context",
+			"revision": "1c05540f6879653db88113bc4a2b70aec4bd491f",
+			"revisionTime": "2017-08-04T00:04:37Z"
+		},
+		{
+			"checksumSHA1": "WPEbk80NB3Esdh4Yk0PXr2K7xVU=",
+			"path": "google.golang.org/appengine",
+			"revision": "d9a072cfa7b9736e44311ef77b3e09d804bfa599",
+			"revisionTime": "2017-08-14T19:09:42Z"
+		},
+		{
+			"checksumSHA1": "6NuYTjsdcQG7a31AM2+wmfUW9ks=",
+			"path": "google.golang.org/appengine/datastore",
+			"revision": "d9a072cfa7b9736e44311ef77b3e09d804bfa599",
+			"revisionTime": "2017-08-14T19:09:42Z"
+		},
+		{
+			"checksumSHA1": "4o2JkeR2LyUfZ7BQIzHUejyqKno=",
+			"path": "google.golang.org/appengine/internal",
+			"revision": "d9a072cfa7b9736e44311ef77b3e09d804bfa599",
+			"revisionTime": "2017-08-14T19:09:42Z"
+		},
+		{
+			"checksumSHA1": "x6Thdfyasqd68dWZWqzWWeIfAfI=",
+			"path": "google.golang.org/appengine/internal/app_identity",
+			"revision": "d9a072cfa7b9736e44311ef77b3e09d804bfa599",
+			"revisionTime": "2017-08-14T19:09:42Z"
+		},
+		{
+			"checksumSHA1": "TsNO8P0xUlLNyh3Ic/tzSp/fDWM=",
+			"path": "google.golang.org/appengine/internal/base",
+			"revision": "d9a072cfa7b9736e44311ef77b3e09d804bfa599",
+			"revisionTime": "2017-08-14T19:09:42Z"
+		},
+		{
+			"checksumSHA1": "5QsV5oLGSfKZqTCVXP6NRz5T4Tw=",
+			"path": "google.golang.org/appengine/internal/datastore",
+			"revision": "d9a072cfa7b9736e44311ef77b3e09d804bfa599",
+			"revisionTime": "2017-08-14T19:09:42Z"
+		},
+		{
+			"checksumSHA1": "Gep2T9zmVYV8qZfK2gu3zrmG6QE=",
+			"path": "google.golang.org/appengine/internal/log",
+			"revision": "d9a072cfa7b9736e44311ef77b3e09d804bfa599",
+			"revisionTime": "2017-08-14T19:09:42Z"
+		},
+		{
+			"checksumSHA1": "eLZVX1EHLclFtQnjDIszsdyWRHo=",
+			"path": "google.golang.org/appengine/internal/modules",
+			"revision": "d9a072cfa7b9736e44311ef77b3e09d804bfa599",
+			"revisionTime": "2017-08-14T19:09:42Z"
+		},
+		{
+			"checksumSHA1": "a1XY7rz3BieOVqVI2Et6rKiwQCk=",
+			"path": "google.golang.org/appengine/internal/remote_api",
+			"revision": "d9a072cfa7b9736e44311ef77b3e09d804bfa599",
+			"revisionTime": "2017-08-14T19:09:42Z"
+		},
+		{
+			"checksumSHA1": "g85w5xA09gP549b5BnCSYK23kAU=",
+			"path": "google.golang.org/appengine/internal/user",
+			"revision": "d9a072cfa7b9736e44311ef77b3e09d804bfa599",
+			"revisionTime": "2017-08-14T19:09:42Z"
+		},
+		{
+			"checksumSHA1": "B4tAVOf+fdH5It1d4ZHcDxZuLQs=",
+			"path": "google.golang.org/appengine/user",
+			"revision": "d9a072cfa7b9736e44311ef77b3e09d804bfa599",
+			"revisionTime": "2017-08-14T19:09:42Z"
+		}
+	],
+	"rootPath": "github.com/masch/superprocrastinator"
+}
