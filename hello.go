@@ -38,7 +38,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 	u := user.Current(c)
 	// [END get_current_user]
 	// [START if_user]
-	if u == nil {
+	/*if u == nil {
 		url, err := user.LoginURL(c, r.URL.String())
 		if err != nil {
 			http.Error(w, err.Error(), http.StatusInternalServerError)
@@ -47,7 +47,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 		w.Header().Set("Location", url)
 		w.WriteHeader(http.StatusFound)
 		return
-	}
+	}*/
 	// [END if_user]
 
 	g := Greeting{
